@@ -1,0 +1,199 @@
+# Configuration File
+
+time_step=1.0
+num_robots=3
+radius=0.5
+
+neighborDist=1.1
+maxNeighbors=10
+timeHorizon=1.1
+timeHorizonObst=1.1
+maxSpeed=2.0
+
+# Environments
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/env-orca-1/
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/env-orca-2-1/
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/env-orca-3-2/
+environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/env-orca-3-3/
+
+# Log files to visualize for GLAS
+# benign
+# log_file="/Users/doguhanyeke/Desktop/research/comparison/swarmlab/glas_ws/code/agent_positions.txt"
+# herding
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigating_to_point_targeted_run_positions_1000ite_5mes_env-orca-2-1_glas_january_0.5_1.0.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigating_to_point_targeted_run_positions_1000ite_5mes_env-orca-1_glas_january_0.5_1.0.txt
+# deadlock
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/deadlock_of_victim_robot_run_positions_1000ite_5mes_env-orca-2-1_glas_january_0.5_1.0.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/deadlock_of_victim_robot_run_positions_1000ite_5mes_env-orca-1_glas_january_0.5_1.0.txt
+# nav delay
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigation_delay_of_victim_robot_run_positions_1000ite_5mes_env-orca-2-1_glas_january_0.5_1.0.txt"
+# r2o
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_1000ite_5mes_env-orca-2-1_glas_january_0.5_1.0.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_1000ite_5mes_env-orca-3-2_glas_january_0.5_1.0.txt
+log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_1000ite_5mes_env-orca-3-3_glas_january_0.5_1.0.txt
+# r2r
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_btw_victim_and_other_robots_run_positions_1000ite_5mes_env-orca-2-1_glas_january_0.5_1.0.txt"
+
+# Log files to visualize for ORCA 2D
+# benign
+# log_file="/Users/doguhanyeke/Desktop/research/comparison/swarmlab/orca/positions.txt"
+# herding
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigating_to_point_targeted_run_positions_1000ite_5mes_env-orca-1_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigating_to_point_targeted_run_positions_1000ite_5mes_env-orca-2-1_orca_january_0.5_1.0.txt
+# deadlock
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/deadlock_of_victim_robot_run_positions_1000ite_5mes_env-orca-1_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/deadlock_of_victim_robot_run_positions_1000ite_5mes_env-orca-2-1_orca_january_0.5_1.0.txt
+# nav delay
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigation_delay_of_victim_robot_run_positions_1000ite_5mes_env-orca-1_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigation_delay_of_victim_robot_run_positions_1000ite_5mes_env-orca-2-1_orca_january_0.5_1.0.txt
+# r2o
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_1000ite_5mes_env-orca-1_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_1000ite_5mes_env-orca-2-1_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_1000ite_5mes_env-orca-3-2_orca_january_0.5_1.0.txt
+# r2r
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_btw_victim_and_other_robots_run_positions_1000ite_5mes_env-orca-1_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_btw_victim_and_other_robots_run_positions_1000ite_5mes_env-orca-2-1_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_btw_victim_and_other_robots_run_positions_1000ite_5mes_env-orca-3-2_orca_january_0.5_1.0.txt
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_btw_victim_and_other_robots_run_positions_1000ite_5mes_env-orca-3-3_orca_january_0.5_1.0.txt
+
+# Log files to visualize for GLAS
+# benign
+# log_file="/Users/doguhanyeke/Desktop/research/swarm/falsi_glas/code/agent_positions.txt"
+# nav delay
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigation_delay_of_victim_robot_run_positions_1000ite_5mes_env-orca-1_glas_january_0.5_1.0.txt
+# deadlock
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/deadlock_of_victim_robot_run_positions_1000ite_10mes_env-orca-1_glas_january_0.5_1.0.txt
+# herding
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigating_to_point_targeted_run_positions_1000ite_5mes_env-orca-1_glas_january_0.5_1.0.txt
+# r2o
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_1000ite_5mes_env-orca-1_glas_january_0.5_1.0.txt
+# r2r
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_btw_victim_and_other_robots_run_positions_1000ite_5mes_env-orca-1_glas_january_0.5_1.0.txt
+
+# Log files to visualize for ORCA
+# benign
+# log_file="/Users/doguhanyeke/Desktop/research/rvo3d/RVO2-3D/examples/positions2.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/orca_benign.txt"
+# nav delay
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigation_delay_of_victim_robot_run_positions_100ite_5mes_env-orca-1_orca_december_0.75_0.5.txt
+# herding X=10.16 Y=16.61 Z=5.0 for env1 and ORCA
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigating_to_point_targeted_run_positions_100ite_5mes_env-orca-1_orca_december_0.75_0.5.txt
+# deadlock
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/deadlock_of_victim_robot_run_positions_100ite_5mes_env-orca-2-1_orca_december_0.5_0.5.txt
+# r2r
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_btw_victim_and_other_robots_run_positions_100ite_5mes_env-orca-3-2_orca_december_0.25_0.5.txt
+# r2o
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/collision_obstacle_victim_robot_run_positions_100ite_5mes_env-orca-3-3_orca_december_0.25_0.5.txt
+
+
+# ORCA benign run waypoints
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/orca_benign.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/deadlock_of_victim_robot_run_positions_100ite_5mes_environment2-1_gz_orca_1.0_1.0.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults2/deadlock_of_victim_robot_run_positions_1000ite_50mes_GlasEnvironment1.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigation_delay_of_victim_robot_run_positions_10000ite_6mes_environment1_gz.txt"
+
+# glas: benign run results
+# log_file="/Users/doguhanyeke/Desktop/research/swarm/falsi_glas/code/agent_positions.txt"
+
+# log_file="/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults3/navigation_delay_of_victim_robot_run_positions_10000ite_3mes_environment1_gz.txt"
+# log_file="/Users/doguhanyeke/Desktop/research/rvo3d/RVO2-3D/build/benign_2_1_gz.txt"
+# log_file = "/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults5/navigation_delay_of_victim_robot_run_positions_fake_10000ite_1mes_environment1_gz_fake.txt"
+# log_file = "/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/src/falsiResults5/navigation_delay_of_victim_robot_run_positions_fake_10000ite_1mes_environment1_gz_fake.txt"
+
+# ORCA tests
+# ORCA environment setup for obstacles, init & goal positions of robots
+# change obstacle_positions.txt under RVO2-3D/examples
+# change robot_pos.txt under RVO2-3D/examples
+# change goals.txt under RVO2-3D/examples
+# To test benign case, python s_benign_orca.py under Attack/src
+
+# Extra: Falsification setup for obstacles and goal positions of robots
+# herding
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment1_gz/
+# change obstacles.txt, goals.txt, robot_pos.txt
+# deadlock
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment2-1_gz/
+# change obstacles.txt, goals.txt, robot_pos.txt
+# nav delay
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment1_gz/
+# change obstacles.txt, goals.txt, robot_pos.txt
+# r2r
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment3-1_gz/
+# change obstacles.txt, goals.txt, robot_pos.txt
+# r2o
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment3-1_gz/
+# change obstacles.txt, goals.txt, robot_pos.txt
+# change parameters in config.txt and run sample2.py under Attack/src
+
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment1_glas/
+
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment1
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment3-1_gz/
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment3-1_gz/
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment3-1_gz/
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment3-1_gz/
+# environment_file=/Users/doguhanyeke/Desktop/research/False_Data_Attacks_on_ORCA/Attack/environments/environment3-1_gz/
+
+deadlockOccurs=10
+deadlock_threshold=0.001
+
+maxCycle=2500
+
+# random attack parameters
+randomAttackStart=0
+randomAttackEnd=231
+attackerIds="1"
+numOfFalseMessages=1
+positionMax=5
+velocityMax=2.5
+timeMin=0
+timeMax=100
+
+# falsification parameters
+minPosChange=-5.0
+maxPosChange=5.0
+minVelChange=-2.5
+maxVelChange=2.5
+
+victimRobotId=0
+attackedRobotId=1
+
+deadlockTimestep=10
+deadlockPosChange=0.1
+
+# 1: r2o, 3: r2r, 5: herding, 7: deadlock, 9: navdelay
+attackType=1
+
+numberOfFalseMessage=5
+
+falsificationRuns=10
+falsificationIterations=1000
+
+# measure the benign time, say 33.
+# if time_step is 1.0, then 33, otherwise 33/time_step
+totalTimeStep=100.0
+
+delayConstant=2
+
+# herding point for ORCA
+# pointX=10.16
+# pointY=16.61
+# pointZ=5.0
+
+# glas, env1
+pointX=12.91
+pointY=12.91
+
+# glas, env2-1
+# pointX=21.50
+# pointY=13.30
+
+# orca 2D env1
+# pointX=12.93
+# pointY=17.01
+
+# orca 2D env2-1
+# pointX=21.16
+# pointY=22.70
+
+benign_run=0

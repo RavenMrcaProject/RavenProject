@@ -65,16 +65,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/deadlock/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/deadlock/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -87,16 +81,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/herding/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/herding/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -109,16 +97,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/navdelay/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/navdelay/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -131,16 +113,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/r2o/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/r2o/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -153,16 +129,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env1-files/r2r/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env1-files/r2r/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -177,16 +147,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/deadlock/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/deadlock/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -199,16 +163,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/herding/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/herding/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -221,16 +179,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/navdelay/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/navdelay/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -243,16 +195,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/r2o/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/r2o/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -265,16 +211,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env2-1-files/r2r/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env2-1-files/r2r/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -289,16 +229,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env3-2-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env3-2-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/orca/orca-env3-2-files/r2r/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/orca/orca-env3-2-files/r2r/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -365,16 +299,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/deadlock/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/deadlock/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -387,16 +315,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/herding/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/herding/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -409,16 +331,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/navdelay/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/navdelay/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -431,16 +347,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/r2o/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/r2o/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -453,16 +363,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env2-1-files/r2r/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env2-1-files/r2r/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -477,16 +381,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env3-2-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env3-2-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env3-2-files/r2o/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env3-2-files/r2o/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -501,16 +399,26 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env3-3-files/benign/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env3-3-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env3-3-files/r2r/robot_visualization.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env3-3-files/r2r/output.gif" width="400"/>
+    </td>
+  </tr>
+</table>
+
+##### Robot-to-Obstacle Attack
+<table>
+  <tr>
+    <th>Benign Behavior</th>
+    <th>Under Attack</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./Videos/glas/glas-env3-3-files/benign/output.gif" width="400"/>
+    </td>
+    <td>
+      <img src="./Videos/glas/glas-env3-3-files/r2o/output.gif" width="400"/>
     </td>
   </tr>
 </table>

@@ -316,13 +316,13 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   <tr>
     <td>
       <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/benign/robot_visualization.mp4" type="video/mp4">
+        <source src="./Videos/glas/glas-env1-files/benign/output.gif" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/deadlock/robot_visualization.mp4" type="video/mp4">
+        <source src="./Videos/glas/glas-env1-files/deadlock/output.gif" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -338,13 +338,13 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   <tr>
     <td>
       <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/benign/robot_visualization.mp4" type="video/mp4">
+        <source src="./Videos/glas/glas-env1-files/benign/output.gif" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/herding/robot_visualization.mp4" type="video/mp4">
+        <source src="./Videos/glas/glas-env1-files/herding/output.gif" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -360,13 +360,13 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   <tr>
     <td>
       <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/benign/robot_visualization.mp4" type="video/mp4">
+        <source src="./Videos/glas/glas-env1-files/benign/output.gif" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/navdelay/robot_visualization.mp4" type="video/mp4">
+        <source src="./Videos/glas/glas-env1-files/navdelay/output.gif" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>

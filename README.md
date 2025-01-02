@@ -315,16 +315,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/benign/output.gif" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/deadlock/output.gif" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env1-files/deadlock/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -337,16 +331,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/benign/output.gif" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/herding/output.gif" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env1-files/herding/output.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -359,16 +347,10 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
   <tr>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/benign/output.gif" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env1-files/benign/output.gif" width="400"/>
     </td>
     <td>
-      <video width="400" controls>
-        <source src="./Videos/glas/glas-env1-files/navdelay/output.gif" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./Videos/glas/glas-env1-files/navdelay/output.gif" width="400"/>
     </td>
   </tr>
 </table>

@@ -25,30 +25,30 @@ The following attacks are implemented for the ORCA navigation algorithm:
 
 1. **Deadlock Attack**
    - Purpose: Immobilizes the victim robot
-   - Implementation: [View Details](./Attacks/orca/README.md#deadlock-attack)
+   - Implementation: [View Details](./Attack/orca/README.md#deadlock-attack)
 
 2. **Herding Attack**
    - Purpose: Forces the victim robot to move to an attacker-defined zone
-   - Implementation: [View Details](./Attacks/orca/README.md#herding-attack)
+   - Implementation: [View Details](./Attack/orca/README.md#herding-attack)
 
 3. **Navigation Delay Attack**
    - Purpose: Doubles the navigation time of the victim robot
-   - Implementation: [View Details](./Attacks/orca/README.md#navigation-delay-attack)
+   - Implementation: [View Details](./Attack/orca/README.md#navigation-delay-attack)
 
 4. **Robot-to-Robot Collision (R2R)**
    - Purpose: Causes collisions between robots
-   - Implementation: [View Details](./Attacks/orca/README.md#r2r-attack)
+   - Implementation: [View Details](./Attack/orca/README.md#r2r-attack)
 
 5. **Robot-to-Obstacle Collision (R2O)**
    - Purpose: Causes robot collisions with obstacles
-   - Implementation: [View Details](./Attacks/orca/README.md#r2o-attack)
+   - Implementation: [View Details](./Attack/orca/README.md#r2o-attack)
 </details>
 
 ### GLAS Attacks
 <details>
 <summary>Click to expand GLAS attack details</summary>
 
-Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS documentation](./Attacks/glas/README.md) for specific implementation details.
+Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS documentation](./Attack/glas_ws/README.md) for specific implementation details.
 </details>
 
 ## Video Demonstrations
@@ -58,6 +58,9 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
 #### Environment 1
 
 ##### Deadlock Attack
+
+**Effect:** The target robot (Robot 2) prevents the victim robot (Robot 1) from moving by creating a false perception, resulting in complete immobilization for a certain duration.
+
 <table>
   <tr>
     <th>Benign Behavior</th>
@@ -74,6 +77,9 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
 </table>
 
 ##### Herding Attack
+
+**Effect:** The target robot (Robot 2) manipulates the victim robot (Robot 1) by strategically positioning itself to force the victim to move along an unintended path towards a predetermined location.
+
 <table>
   <tr>
     <th>Benign Behavior</th>
@@ -90,6 +96,9 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
 </table>
 
 ##### Navigation Delay Attack
+
+**Effect:** The target robot (Robot 2) interferes with the victim robot's (Robot 1) path, forcing it to take detours and evasive maneuvers, effectively doubling its navigation time to reach the destination.
+
 <table>
   <tr>
     <th>Benign Behavior</th>
@@ -105,7 +114,11 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
   </tr>
 </table>
 
+
 ##### Robot-to-Obstacle Attack
+
+**Effect:** The target robot (Robot 2) forces the victim robot (Robot 1) to collide with static obstacles by manipulating its waypoint calculation.
+
 <table>
   <tr>
     <th>Benign Behavior</th>
@@ -122,6 +135,9 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
 </table>
 
 ##### Robot-to-Robot Attack
+
+**Effect:** The target robot (Robot 3) manipulates the victim robot's (Robot 2) waypoint calculation to create collisions with other robots in the environment.
+
 <table>
   <tr>
     <th>Benign Behavior</th>
@@ -426,18 +442,18 @@ Similar attacks are implemented for the GLAS navigation algorithm. See [GLAS doc
 ## Documentation
 
 For detailed documentation of each attack type, please refer to their respective README files:
-- [ORCA Attacks Documentation](./Attacks/orca/README.md)
-- [GLAS Attacks Documentation](./Attacks/glas/README.md)
+- [ORCA Attacks Documentation](./Attack/orca/README.md)
+- [GLAS Attacks Documentation](./Attack/glas_ws/README.md)
 
 Each environment features different obstacle configurations to demonstrate attack effectiveness across various scenarios.
 
 ## Project Structure
 ```
 .
-├── Attacks/
+├── Attack/
 │   ├── orca/
 │   │   └── README.md
-│   └── glas/
+│   └── glas_ws/
 │       └── README.md
 ├── Videos/
 │   ├── orca/

@@ -1,4 +1,4 @@
-./Attack/glas_ws/code/glas_env/
-./Attack/orca/results/
+Attack/glas_ws/code/glas_env/
+Attack/orca/results/
 *.dylib
 *.avi

@@ -1,0 +1,21 @@
+# r2r best env
+agents:
+-   goal: [28, 21]
+    name: agent0
+    start: [7.5, 4.0]
+-   goal: [29.1, 21]
+    name: agent1
+    start: [8.8, 3.7]
+-   goal: [11, 2.0]
+    name: agent2
+    start: [31.0, 21]
+map:
+    dimensions: [50, 50]
+    obstacles:
+    - [25, 15]
+    - [26, 15]
+    - [21, 17]
+    - [20, 17]
+    - [31, 12]
+    - [32, 12]
+    - [33, 12]

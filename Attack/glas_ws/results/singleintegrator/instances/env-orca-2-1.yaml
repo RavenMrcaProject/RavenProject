@@ -1,0 +1,28 @@
+# deadlock calisan case:
+agents:
+-   goal: [30, 24]
+    name: agent0
+    start: [9.2, 6.0]
+-   goal: [30, 22]
+    name: agent1
+    start: [8.3, 4.2]
+-   goal: [30, 20]
+    name: agent2
+    start: [8.0, 2.8]
+map:
+    dimensions: [50, 50]
+    obstacles:
+    - [22, 12]
+    - [23, 12]
+    - [23, 13]
+    - [22, 13]
+    - [22, 14]
+    - [22, 15]
+    - [22, 16]
+    - [22, 17]
+    - [22, 18]
+    - [22, 19]
+    - [22, 20]
+    - [22, 21]
+    - [21, 17]
+    - [20, 17]

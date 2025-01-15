@@ -1,0 +1,22 @@
+# collision 2
+agents:
+-   goal: [27, 22]
+    name: agent0
+    start: [7.2, 8.6]
+-   goal: [29, 22]
+    name: agent1
+    start: [9.1, 8.1]
+-   goal: [30, 22]
+    name: agent2
+    start: [10.3, 7.6]
+map:
+    dimensions: [50, 50]
+    obstacles:
+    - [20, 15]
+    - [21, 16]
+    - [22, 17]
+    - [23, 18]
+    - [27, 11]
+    - [28, 12]
+    - [29, 13]
+    - [30, 14]

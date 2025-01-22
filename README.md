@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Video Examples](#video-examples)
 - [Attack Types](#attack-types)
   - [ORCA Attacks](#orca-attacks)
   - [GLAS Attacks](#glas-attacks)
@@ -14,6 +15,14 @@
 ## Overview
 
 This repository contains implementations of various attacks on autonomous robot navigation systems, specifically targeting ORCA and GLAS algorithms. The attacks demonstrate different ways to manipulate robot behavior, from causing collisions to controlling movement patterns.
+
+## Video Examples
+
+Video examples of real-world attack and detector outputs can be viewed here: https://youtube.com/playlist?list=PL02thQ_Fs01Qh-SQWBL0ZGf82Ta-EOa5q&si=W6VMjAB0a6R0rDnK
+
+The videos demonstrate:
+1. Attack demonstration on 3 Crazyflie drones
+2. Real time output of anomaly detectors
 
 ## Attack Types
 
